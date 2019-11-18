@@ -22,7 +22,7 @@ body {
 
 img {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 .photo:nth-child(2),
@@ -70,11 +70,11 @@ img {
     display: none;
   }
 
-    .photo:nth-child(2),
-    .photo:nth-child(3),
-    .photo:nth-child(4) {
-      width: 33.33%;
-    }
+  .photo:nth-child(2),
+  .photo:nth-child(3),
+  .photo:nth-child(4) {
+    width: 33.3333%;
+  }
 
 }
 
@@ -82,16 +82,16 @@ img {
 
   .photo:nth-child(5) {
     display: inline-block;
-    width: 33.33%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(1) {
     display: inline-block;
-    width: 66.66%;
+    width: 66.6666%;
   }
 
   .photo:nth-child(2) {
-    width: 33.33%;
+    width: 33.3333%;
   }
 
 }
